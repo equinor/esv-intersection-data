@@ -23,7 +23,7 @@
   {
     "mdTop": 21.14,
     "mdBottom": 1800,
-    "diameter": 10.75,
+    "odMax": 10.75,
     "innerDiameter": 9.66,
     "hasShoe": true
   },
