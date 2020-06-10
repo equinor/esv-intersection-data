@@ -1,11 +1,25 @@
-export * as casingData from './casings.json';
-export * as cementData from './cement.json';
-export * as completion from './completion.json';
-export * as coordinates from './coordinates.json';
-export * as holeSizeData from './holesize.json';
-export * as picks from './picks.json';
-export * as poslog from './poslog.json';
-export * as seismicColorMap from './seismic-colormap.json';
-export * as seismic from './seismic.json';
-export * as stratColumns from './strat-columns.json';
-export * as surfaces from './surfaces.json';
+const casingData = require('./casings.json');
+const cementData = require('./cement.json');
+const completion = require('./completion.json');
+const coordinates = require('./coordinates.json');
+const holeSizeData = require('./holesize.json');
+const picks = require('./picks.json');
+const poslog = require('./poslog.json');
+const seismicColorMap = require('./seismic-colormap.json');
+const seismic = require('./seismic.json');
+const stratColumns = require('./strat-columns.json');
+const surfaces = require('./surfaces.json');
+
+export {
+  casingData,
+  cementData,
+  completion,
+  coordinates,
+  holeSizeData,
+  picks,
+  poslog,
+  seismicColorMap,
+  seismic,
+  stratColumns,
+  surfaces,
+};
