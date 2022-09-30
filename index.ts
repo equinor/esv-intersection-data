@@ -1,6 +1,7 @@
 const casingData = require('./casings.json');
 const cementData = require('./cement.json');
 const completion = require('./completion.json');
+const completionV2 = require('./completionV2.json');
 const coordinates = require('./coordinates.json');
 const holeSizeData = require('./holesize.json');
 const picks = require('./picks.json');
@@ -14,6 +15,7 @@ export {
   casingData,
   cementData,
   completion,
+  completionV2,
   coordinates,
   holeSizeData,
   picks,
