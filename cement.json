@@ -1,5 +1,5 @@
 [
-  { "casingId": "1", "toc": 143 },
-  { "casingId": "2", "toc": 145 },
-  { "casingId": "3", "toc": 2207 }
+  { "casingIds": ["1"], "toc": 143 },
+  { "casingIds": ["2"], "toc": 145 },
+  { "casingIds": ["3"], "toc": 2207 }
 ]
