@@ -29,7 +29,7 @@
     "end": 1800,
     "diameter": 10.75,
     "innerDiameter": 9.66,
-    "hasShoe": true
+    "hasShoe": false
   },
   {
     "casingId": "5",
@@ -37,7 +37,7 @@
     "end": 2507,
     "diameter": 9.63,
     "innerDiameter": 8.535,
-    "hasShoe": true
+    "hasShoe": false
   },
   {
     "casingId": "6",
@@ -50,7 +50,7 @@
   {
     "casingId": "7",
     "start": 3335,
-    "end": 5795,
+    "end": 5070,
     "diameter": 7,
     "innerDiameter": 6.184,
     "hasShoe": true
