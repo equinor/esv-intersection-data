@@ -1,0 +1,23 @@
+[
+    {
+        "casingIds": [
+            "1"
+        ],
+        "top": 143,
+        "bottom": 150
+    },
+    {
+        "casingIds": [
+            "2"
+        ],
+        "top": 145,
+        "bottom": 160
+    },
+    {
+        "casingIds": [
+            "3"
+        ],
+        "top": 2207,
+        "bottom": 2300
+    }
+]
