@@ -9,6 +9,7 @@ const seismicColorMap = require('./seismic-colormap.json');
 const seismic = require('./seismic.json');
 const stratColumns = require('./strat-columns.json');
 const surfaces = require('./surfaces.json');
+const cementSqueezes = require('./cementSqueeze.json')
 
 export {
   casingData,
@@ -22,4 +23,5 @@ export {
   seismic,
   stratColumns,
   surfaces,
+  cementSqueezes,
 };
