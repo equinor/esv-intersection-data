@@ -1,5 +1,7 @@
 [
   {
+    "kind": "casing",
+    "id": "casing-01",
     "casingId": "1",
     "start": 139.7,
     "end": 202,
@@ -8,6 +10,8 @@
     "hasShoe": true
   },
   {
+    "kind": "casing",
+    "id": "casing-02",
     "casingId": "2",
     "start": 139,
     "end": 1389,
@@ -16,6 +20,8 @@
     "hasShoe": true
   },
   {
+    "kind": "casing",
+    "id": "casing-03",
     "casingId": "3",
     "start": 140.4,
     "end": 2607,
@@ -24,6 +30,8 @@
     "hasShoe": true
   },
   {
+    "kind": "casing",
+    "id": "casing-04",
     "casingId": "4",
     "start": 21.14,
     "end": 1800,
@@ -32,6 +40,8 @@
     "hasShoe": false
   },
   {
+    "kind": "casing",
+    "id": "casing-05",
     "casingId": "5",
     "start": 1800,
     "end": 2507,
@@ -40,6 +50,8 @@
     "hasShoe": false
   },
   {
+    "kind": "casing",
+    "id": "casing-06",
     "casingId": "6",
     "start": 2507,
     "end": 3435,
@@ -48,6 +60,8 @@
     "hasShoe": true
   },
   {
+    "kind": "casing",
+    "id": "casing-07",
     "casingId": "7",
     "start": 3335,
     "end": 5070,

@@ -1,5 +1,5 @@
 [
-  { "casingIds": ["1"], "toc": 143 },
-  { "casingIds": ["2"], "toc": 145 },
-  { "casingIds": ["3"], "toc": 2207 }
+  { "kind": "cement", "id": "cement-01", "casingIds": ["1"], "toc": 143 },
+  { "kind": "cement", "id": "cement-02", "casingIds": ["2"], "toc": 145 },
+  { "kind": "cement", "id": "cement-03", "casingIds": ["3"], "toc": 2207 }
 ]
