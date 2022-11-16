@@ -6,7 +6,8 @@
     "end": 202,
     "diameter": 30,
     "innerDiameter": 28,
-    "hasShoe": true
+    "hasShoe": true,
+    "windows": []
   },
   {
     "kind": "casing",
@@ -15,7 +16,8 @@
     "end": 1389,
     "diameter": 20,
     "innerDiameter": 18.73,
-    "hasShoe": true
+    "hasShoe": true,
+    "windows": []
   },
   {
     "kind": "casing",
@@ -24,7 +26,8 @@
     "end": 2607,
     "diameter": 13.38,
     "innerDiameter": 12.347,
-    "hasShoe": true
+    "hasShoe": true,
+    "windows": []
   },
   {
     "kind": "casing",
@@ -33,7 +36,8 @@
     "end": 1800,
     "diameter": 10.75,
     "innerDiameter": 9.66,
-    "hasShoe": false
+    "hasShoe": false,
+    "windows": []
   },
   {
     "kind": "casing",
@@ -42,7 +46,8 @@
     "end": 2507,
     "diameter": 9.63,
     "innerDiameter": 8.535,
-    "hasShoe": false
+    "hasShoe": false,
+    "windows": []
   },
   {
     "kind": "casing",
@@ -51,7 +56,8 @@
     "end": 3435,
     "diameter": 9.63,
     "innerDiameter": 8.535,
-    "hasShoe": true
+    "hasShoe": true,
+    "windows": []
   },
   {
     "kind": "casing",
@@ -60,6 +66,7 @@
     "end": 5070,
     "diameter": 7,
     "innerDiameter": 6.184,
-    "hasShoe": true
+    "hasShoe": true,
+    "windows": [{ "id": "casing-window-01", "start": 4900, "end": 5000 }]
   }
 ]
