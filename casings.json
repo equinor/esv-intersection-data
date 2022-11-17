@@ -60,6 +60,7 @@
     "end": 5070,
     "diameter": 7,
     "innerDiameter": 6.184,
-    "hasShoe": true
+    "hasShoe": true,
+    "windows": [{ "id": "casing-window-01", "start": 4900, "end": 5000 }]
   }
 ]
