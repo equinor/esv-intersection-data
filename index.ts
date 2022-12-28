@@ -1,15 +1,15 @@
-const casingData = require('./casings.json');
-const cementData = require('./cement.json');
-const completion = require('./completion.json');
-const coordinates = require('./coordinates.json');
-const holeSizeData = require('./holesize.json');
-const picks = require('./picks.json');
-const poslog = require('./poslog.json');
-const seismicColorMap = require('./seismic-colormap.json');
-const seismic = require('./seismic.json');
-const stratColumns = require('./strat-columns.json');
-const surfaces = require('./surfaces.json');
-const cementSqueezes = require('./cementSqueeze.json')
+import casingData from './casings.json' assert { type: 'json' };
+import cementData from './cement.json' assert { type: 'json' };
+import completion from './completion.json' assert { type: 'json' };
+import coordinates from './coordinates.json' assert { type: 'json' };
+import holeSizeData from './holesize.json' assert { type: 'json' };
+import picks from './picks.json' assert { type: 'json' };
+import poslog from './poslog.json' assert { type: 'json' };
+import seismicColorMap from './seismic-colormap.json' assert { type: 'json' };
+import seismic from './seismic.json' assert { type: 'json' };
+import stratColumns from './strat-columns.json' assert { type: 'json' };
+import surfaces from './surfaces.json' assert { type: 'json' };
+import cementSqueezes from './cementSqueeze.json' assert { type: 'json' };
 
 export {
   casingData,
