@@ -1,4 +1,4 @@
-[![SCM Compliance](https://scm-compliance-api.radix.equinor.com/repos/equinor/<REP NAME>/badge)](https://scm-compliance-api.radix.equinor.com/repos/equinor/<REPO NAME>/badge)
+[![SCM Compliance](https://scm-compliance-api.radix.equinor.com/repos/equinor/esv-intersection-data/badge)](https://scm-compliance-api.radix.equinor.com/repos/equinor/esv-intersection-data/badge)
 
 # esv-intersection-data
 
